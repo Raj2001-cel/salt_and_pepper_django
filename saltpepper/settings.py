@@ -79,8 +79,8 @@ DATABASES = {
       'default': {  
         'ENGINE': 'django.db.backends.mysql',  
         'NAME': 'saltpepper',  
-        'USER': 'root',  
-        'PASSWORD': 'root',  
+        'USER': 'YOUR USERNAME OF DB',  
+        'PASSWORD': 'YOU PASSORD OF DB',  
         'HOST': '127.0.0.1',  
         'PORT': '3306',  
         'OPTIONS': {  
