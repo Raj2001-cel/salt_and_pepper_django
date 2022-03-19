@@ -7,7 +7,7 @@ pentesting i.e JOHN THE RIPPER. Adding pepper makes it very difficult to crack
 passwords. Here the hashing algo used is MD5.
 
 ## FLOW 
-![architecture_sp](https://user-images.githubusercontent.com/62689742/159015860-fc494a0c-f34e-4a81-bf51-e9c8abe6fd90.png)
+![architecture_sp](https://user-images.githubusercontent.com/62689742/159017739-3e68ee1e-2fb8-4980-aea2-bea2831a6a6e.png)
 
 
 
@@ -23,3 +23,4 @@ passwords. Here the hashing algo used is MD5.
 
 
 - [Raj2001-cel](https://github.com/Raj2001-cel)
+
